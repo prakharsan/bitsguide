@@ -23,6 +23,9 @@ body{
 	font-size: 14px;
 	line-height: 1.6em;
 }
+iframe, object, embed {
+    max-width: 100%;
+}
 
 h1 {
 	font-size: 36px;
